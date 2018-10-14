@@ -1,2 +1,2 @@
-# Bionformatics - Tugas 1 ( Needleman-Wunsch Algorithm)
+# Bionformatics
 # Andika C. Pramoedya - 15/383227/PA/16887
